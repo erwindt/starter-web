@@ -11,6 +11,6 @@ Sample website with plenty of files for demos.
 hello world
 
 ##How to Contribute
-
+Pls fork this repository and then pull request for review
 
 2020 Git.Training
