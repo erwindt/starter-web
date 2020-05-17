@@ -11,3 +11,6 @@ Sample website with plenty of files for demos.
 hello world
 
 ##How to Contribute
+
+
+2020 Git.Training
